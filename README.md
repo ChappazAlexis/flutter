@@ -2,7 +2,7 @@
 
 ## 01/09/2021
 
-###Création d'une movie app.
+### Création d'une movie app.
 
 Elle comporte 3 pages; HomeScreen, DetailScreen et le ProfilScreen.
 
